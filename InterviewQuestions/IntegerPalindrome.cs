@@ -8,8 +8,8 @@ namespace InterviewQuestions
         {
             Console.Write("Enter a integer to check if it is palindrome: ");
             string str = Console.ReadLine();
-            int i, sum = 0;
-            if (int.TryParse(str, out i))
+            int sum = 0;
+            if (int.TryParse(str, out int i))
             {
                 int temp = i;
                 while (i > 0)
