@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>InterviewQuestions.Factorial</StartupObject>
+    <StartupObject>InterviewQuestions.IntegerReverse</StartupObject>
   </PropertyGroup>
 
 </Project>
