@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>InterviewQuestions.DerivedClass</StartupObject>
+    <StartupObject>InterviewQuestions.ExtensionMethodExample</StartupObject>
   </PropertyGroup>
 
 </Project>
